@@ -7,3 +7,6 @@ https://en.wikipedia.org/wiki/Spectre_(security_vulnerability)
 
 # full retpoline
 https://github.com/luke-jr/full-retpoline
+
+# x86 retpoline
+https://github.com/torvalds/linux/commit/76b043848fd22dbf7f8bf3a1452f8c70d557b860
