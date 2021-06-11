@@ -4,3 +4,6 @@
 
 # spectre attack
 https://en.wikipedia.org/wiki/Spectre_(security_vulnerability)
+
+# full retpoline
+https://github.com/luke-jr/full-retpoline
